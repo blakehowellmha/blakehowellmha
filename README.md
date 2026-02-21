@@ -3,7 +3,7 @@
 <h2>👨‍💻 Python Projects:</h2>
 
 - <b>Respiratory Rate (Vital Sign Monitoring and Alarms)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  -(https://github.com/blakehowellmha/Respiratory-Rate-Vital-Sign-Monitoring---Redundant-Alarms-)]
 
 <h2> Certifications:</h2>
 - <b>Crash Course in Python (Google)</b>
