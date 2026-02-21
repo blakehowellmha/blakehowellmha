@@ -1,4 +1,4 @@
-<h1>Hi, I'm Blake! <br/><a href="[https://github.com/blakehowellmha]">Programmer</a> | <a href="https://www.linkedin.com/in/blakehowellmha/">Healthcare Professional</a>
+<h1>Hi, I'm Blake! <br/><a href="https://github.com/blakehowellmha">Programmer</a>, <a href="https://www.linkedin.com/in/blakehowellmha/">Healthcare Professional</a>
 
 <h2>👨‍💻 Python Projects:</h2>
 
