@@ -6,6 +6,7 @@
   -(https://github.com/blakehowellmha/Respiratory-Rate---Movement-Artifact)
 
 <h2> Certifications:</h2>
+
 -**Crash Course in Python (Google)**
 -**Generative AI for Healthcare (Google Cloud)**
 -**Hands-On Data Annotation: Applied Machine Learning (LinkedIn)**
