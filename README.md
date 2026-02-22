@@ -3,7 +3,7 @@
 <h2>👨‍💻 Python Projects:</h2>
 
 - <b>Respiratory Rate (Vital Sign Monitoring & Movement Artifact)</b>
-  -(https://github.com/blakehowellmha/Respiratory-Rate-Vital-Sign-Monitoring---Redundant-Alarms-)
+  -(https://github.com/blakehowellmha/Respiratory-Rate-Vital-Sign-Monitoring---Movement Artifact-)
 
 <h2> Certifications:</h2>
 - <b>Crash Course in Python (Google)</b>
