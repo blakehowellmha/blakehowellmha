@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Python Projects:</h2>
 
-- <b>Respiratory Rate (Vital Sign Monitoring & Movement Artifact)</b>
+- <b>Respiratory Rate (Vital Signs & Movement Artifact)</b>
   -(https://github.com/blakehowellmha/Respiratory-Rate---Movement-Artifact)
 
 <h2> Certifications:</h2>
