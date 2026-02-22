@@ -7,9 +7,9 @@
 
 <h2> Certifications:</h2>
 
--**Crash Course in Python (Google)**
--**Generative AI for Healthcare (Google Cloud)**
--**Hands-On Data Annotation: Applied Machine Learning (LinkedIn)**
+- **Crash Course in Python (Google)**
+- **Generative AI for Healthcare (Google Cloud)**
+- **Hands-On Data Annotation: Applied Machine Learning (LinkedIn)**
 
 <h2> 🤳 Connect with me:</h2>
 
