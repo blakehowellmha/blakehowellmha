@@ -3,7 +3,7 @@
 <h2>👨‍💻 Python Projects:</h2>
 
 - <b>Respiratory Rate (Artifact Prevention)</b>
-  -[(https://github.com/blakehowellmha/Respiratory-Rate---Movement-Artifact)](https://github.com/blakehowellmha/Respiratory-Rate---Artifact-Prevention)
+  -https://github.com/blakehowellmha/Respiratory-Rate---Artifact-Prevention
 
 <h2> Certifications:</h2>
 
